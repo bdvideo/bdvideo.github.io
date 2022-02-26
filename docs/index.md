@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# 冰点影视
+### 一、下载
+主线：
+<div><a href="https://bdvideo.github.io/bdvideo.apk">https://bdvideo.github.io/bdvideo.apk</a></div>
+备用：
+<div><a href="https://www.filecad.com/74it/bdvideo.apk">https://www.filecad.com/74it/bdvideo.apk</a></div>
+### 二、本期更新(2022.03.01)
+1、站点解析
 
-You can use the [editor on GitHub](https://github.com/bdvideo/bdvideo.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+2、抢先体验
+### 三、特色
+1、全网VIP视频免费观看
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2、资源嗅探，免除广告
 
-### Markdown
+3、影院上映，抢先观看
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4、多条线路，提供切换
 
-```markdown
-Syntax highlighted code block
+5、支持投屏，大屏共享
 
-# Header 1
-## Header 2
-### Header 3
+### 四、说明
+1、个人使用，请勿用于商业用途
 
-- Bulleted
-- List
+2、冰点影视，找个朋友一起看
 
-1. Numbered
-2. List
+### 五、添加线路
+1、各浏览器搜索：VIP视频解析
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bdvideo/bdvideo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2、复制解析线路，自主添加即可
