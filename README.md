@@ -1,7 +1,7 @@
 # 冰点影视
 ### 一、下载
 主线：
-<div><a href="https://www.filecad.com/74kn/bdvideo.apk">https://www.filecad.com/74kn/bdvideo.apk</a></div>
+<div><a href="https://www.filecad.com/74qc/bdvideo.apk">https://www.filecad.com/74qc/bdvideo.apk</a></div>
 
 扫码：
 
