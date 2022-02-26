@@ -4,6 +4,7 @@
 <div><a href="https://bdvideo.github.io/bdvideo.apk">https://bdvideo.github.io/bdvideo.apk</a></div>
 备用：
 <div><a href="https://www.filecad.com/74it/bdvideo.apk">https://www.filecad.com/74it/bdvideo.apk</a></div>
+
 ### 二、本期更新(2022.03.01)
 1、站点解析
 
@@ -28,3 +29,13 @@
 1、各浏览器搜索：VIP视频解析
 
 2、复制解析线路，自主添加即可
+
+### 六、源码出售
+本程序源码出售，有需要请留言并留下联系方式
+
+### 七、承接项目
+1、除游戏外的各种Android原生软件开发
+
+2、uniapp APP程序和小程序
+
+3、管理系统与网站开发
