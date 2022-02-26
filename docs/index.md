@@ -1,9 +1,8 @@
 # 冰点影视
 ### 一、下载
 主线：
-<div><a href="https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/bdvideo.apk">https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/bdvideo.apk</a></div>
-备用：
 <div><a href="https://www.filecad.com/74kn/bdvideo.apk">https://www.filecad.com/74kn/bdvideo.apk</a></div>
+
 扫码：
 
 ![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/down_code_1.png?raw=true "Magic Gardens")
