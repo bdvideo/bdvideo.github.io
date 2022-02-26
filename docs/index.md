@@ -1,7 +1,7 @@
 # 冰点影视
 ### 一、下载
 主线：
-<div><a href="https://bdvideo.github.io/bdvideo.apk">https://bdvideo.github.io/bdvideo.apk</a></div>
+<div><a href="https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/bdvideo.apk">https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/bdvideo.apk</a></div>
 备用：
 <div><a href="https://www.filecad.com/74it/bdvideo.apk">https://www.filecad.com/74it/bdvideo.apk</a></div>
 
@@ -11,11 +11,11 @@
 2、抢先体验
 ### 三、特色
 1、全网VIP视频免费观看
-
+![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/1.png?raw=true "Magic Gardens")
 2、资源嗅探，免除广告
 
 3、影院上映，抢先观看
-
+![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/2.png?raw=true "Magic Gardens")
 4、多条线路，提供切换
 
 5、支持投屏，大屏共享
