@@ -5,18 +5,18 @@
 
 扫码：
 
-![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/down_code_1.png?raw=true "Magic Gardens")
+[![GsdLW.png](https://s1.328888.xyz/2022/02/26/GsdLW.png)](https://imgloc.com/image/GsdLW)
 ### 二、本期更新(2022.03.01)
 1、站点解析
 
 2、抢先体验
 ### 三、特色
 1、全网VIP视频免费观看
-![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/1.png?raw=true "Magic Gardens")
+[![G7Dh1.png](https://s1.328888.xyz/2022/02/27/G7Dh1.png)](https://imgloc.com/image/G7Dh1)
 2、资源嗅探，免除广告
 
 3、影院上映，抢先观看
-![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/3.png?raw=true "Magic Gardens")
+[![G7lNe.png](https://s1.328888.xyz/2022/02/27/G7lNe.png)](https://imgloc.com/image/G7lNe)
 4、多条线路，提供切换
 
 5、支持投屏，大屏共享
