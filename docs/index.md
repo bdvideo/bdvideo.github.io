@@ -15,7 +15,7 @@
 2、资源嗅探，免除广告
 
 3、影院上映，抢先观看
-![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/2.png?raw=true "Magic Gardens")
+![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/3.png?raw=true "Magic Gardens")
 4、多条线路，提供切换
 
 5、支持投屏，大屏共享
