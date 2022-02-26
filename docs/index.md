@@ -4,7 +4,8 @@
 <div><a href="https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/bdvideo.apk">https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/bdvideo.apk</a></div>
 备用：
 <div><a href="https://www.filecad.com/74it/bdvideo.apk">https://www.filecad.com/74it/bdvideo.apk</a></div>
-
+扫码：
+![这是图片](https://github.com/bdvideo/bdvideo.github.io/blob/gh-pages/docs/down_code_1.png?raw=true "Magic Gardens")
 ### 二、本期更新(2022.03.01)
 1、站点解析
 
