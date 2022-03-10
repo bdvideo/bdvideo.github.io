@@ -1,11 +1,16 @@
 # 冰点影视
 ### 一、下载
-主线：
-<div><a href="https://www.filecad.com/74qc/bdvideo.apk">https://www.filecad.com/74qc/bdvideo.apk</a></div>
+**浏览器中才能下载**,网址：https://litepal.gitlab.io/
+
+主线下载：
+<div><a href="https://gitlab.com/litepal/bd/-/raw/main/bdvideo.apk">https://gitlab.com/litepal/bd/-/raw/main/bdvideo.apk</a></div>
+
+备线下载：
+<div><a href="https://www.filecad.com/753i/bdvideo.apk">https://www.filecad.com/753i/bdvideo.apk</a></div>
 
 扫码：
 
-[![GsdLW.png](https://s1.328888.xyz/2022/02/26/GsdLW.png)](https://imgloc.com/image/GsdLW)
+[![GsdLW.png](https://gitlab.com/litepal/bd/-/raw/main/29_b1482f92cd353ac15d26fdb4471da923.png)](https://gitlab.com/litepal/bd/-/raw/main/29_b1482f92cd353ac15d26fdb4471da923.png)
 ### 二、本期更新(2022.03.01)
 1、站点解析
 
